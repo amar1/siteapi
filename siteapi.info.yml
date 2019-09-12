@@ -1,0 +1,5 @@
+name: Site API
+type: module
+description: 'Showing JSON response of page type node with a Site API key.'
+package: 'Custom'
+core: 8.x
