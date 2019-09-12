@@ -1,4 +1,4 @@
-# siteapi module
+# Site API Module
 
 ## Features
 
