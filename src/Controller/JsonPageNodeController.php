@@ -48,7 +48,7 @@ class JsonPageNodeController extends ControllerBase {
             'Node ID' => $nid,
             'title' => $title,
             'body' => $body,
-            'Node Type' => $node_type,
+            'Node Type' => $type,
             'Node Access' => 'Success',
           ];
 
