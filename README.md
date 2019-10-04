@@ -31,19 +31,8 @@ format on your site if you have the below details:
 
 1. If API Key is correct and Node ID of a `Page` content.
 
-`{
-  "Node ID": "1",
-  "title": "Page type content",
-  "body": [
-    {
-      "value": "<p>Lorem Lipsum</p>\r\n",
-      "summary": "",
-      "format": "basic_html"
-    }
-  ],
-  "Node Type": null,
-  "Node Access": "Success"
-}`
+`
+{"Node ID":"5","title":"Test Page","body":[{"value":"\u003Cp\u003ETest by Amar\u003C\/p\u003E\r\n","summary":"","format":"basic_html"}],"Node Type":"page","Node Access":"Success"}`
 
 2. If API key is wrong.
 
